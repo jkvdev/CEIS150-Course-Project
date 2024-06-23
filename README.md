@@ -10,14 +10,14 @@ The Stock Manager Application is a comprehensive tool designed to help users man
 ### Stock Management
 - **Add Stock:** Add new stocks to your portfolio.
 - **Delete Stock:** Remove stocks from your portfolio.
-- **Display Stock:** View details of your stocks.
+- **List Stock:** View details of your stocks.
 
 ### Data Import and Visualization
 - **Import Data:** Import stock data from CSV files to save time and enhance analysis.
 - **Visualize Data:** Use Matplotlib to create charts that help in understanding stock trends and patterns.
 
 ### Retirement Accounts
-- **Robot Account:** Generates stable and predictable stock reports ideal for data analysis and market predictions.
+- **Robo Account:** Generates stable and predictable stock reports ideal for data analysis and market predictions.
 - **Traditional Account:** A standard account for saving stocks bought by the user.
 
 ### GUI
